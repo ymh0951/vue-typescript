@@ -1,13 +1,13 @@
 <script lang="ts">
-import { defineComponent } from 'vue'
+import { defineComponent } from 'vue';
 
 export default defineComponent({
   data() {
     return {
-      message: 0
-    }
+      message: 0,
+    };
   },
-})
+});
 </script>
 
 <template>
